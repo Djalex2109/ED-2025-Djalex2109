@@ -1,0 +1,14 @@
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\bin\Debug\net8.0\Adivinar Numero.exe
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\bin\Debug\net8.0\Adivinar Numero.deps.json
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\bin\Debug\net8.0\Adivinar Numero.runtimeconfig.json
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\bin\Debug\net8.0\Adivinar Numero.dll
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\bin\Debug\net8.0\Adivinar Numero.pdb
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\Adivinar Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\Adivinar Numero.AssemblyInfoInputs.cache
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\Adivinar Numero.AssemblyInfo.cs
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\Adivinar Numero.csproj.CoreCompileInputs.cache
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\Adivinar Numero.dll
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\refint\Adivinar Numero.dll
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\Adivinar Numero.pdb
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\Adivinar Numero.genruntimeconfig.cache
+C:\Users\alexd\OneDrive\Escritorio\Proyectos Visual Studio\Adivinar Numero\obj\Debug\net8.0\ref\Adivinar Numero.dll
