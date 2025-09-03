@@ -1,0 +1,14 @@
+C:\Users\alexd\source\repos\Determinar Numeros Primos\bin\Debug\net8.0\Determinar Numeros Primos.exe
+C:\Users\alexd\source\repos\Determinar Numeros Primos\bin\Debug\net8.0\Determinar Numeros Primos.deps.json
+C:\Users\alexd\source\repos\Determinar Numeros Primos\bin\Debug\net8.0\Determinar Numeros Primos.runtimeconfig.json
+C:\Users\alexd\source\repos\Determinar Numeros Primos\bin\Debug\net8.0\Determinar Numeros Primos.dll
+C:\Users\alexd\source\repos\Determinar Numeros Primos\bin\Debug\net8.0\Determinar Numeros Primos.pdb
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\Determinar Numeros Primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\Determinar Numeros Primos.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\Determinar Numeros Primos.AssemblyInfo.cs
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\Determinar Numeros Primos.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\Determinar Numeros Primos.dll
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\refint\Determinar Numeros Primos.dll
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\Determinar Numeros Primos.pdb
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\Determinar Numeros Primos.genruntimeconfig.cache
+C:\Users\alexd\source\repos\Determinar Numeros Primos\obj\Debug\net8.0\ref\Determinar Numeros Primos.dll
