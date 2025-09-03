@@ -1,0 +1,14 @@
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\bin\Debug\net8.0\Calcular Area de Un Circulo.exe
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\bin\Debug\net8.0\Calcular Area de Un Circulo.deps.json
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\bin\Debug\net8.0\Calcular Area de Un Circulo.runtimeconfig.json
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\bin\Debug\net8.0\Calcular Area de Un Circulo.dll
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\bin\Debug\net8.0\Calcular Area de Un Circulo.pdb
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\Calcular Area de Un Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\Calcular Area de Un Circulo.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\Calcular Area de Un Circulo.AssemblyInfo.cs
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\Calcular Area de Un Circulo.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\Calcular Area de Un Circulo.dll
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\refint\Calcular Area de Un Circulo.dll
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\Calcular Area de Un Circulo.pdb
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\Calcular Area de Un Circulo.genruntimeconfig.cache
+C:\Users\alexd\source\repos\Calcular Area de Un Circulo\obj\Debug\net8.0\ref\Calcular Area de Un Circulo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calcular Area de Un Circulo/1.0.0": {
+        "runtime": {
+          "Calcular Area de Un Circulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular Area de Un Circulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
