@@ -1,0 +1,14 @@
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\bin\Debug\net8.0\Grados Celsius a Fahrenheit.exe
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\bin\Debug\net8.0\Grados Celsius a Fahrenheit.deps.json
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\bin\Debug\net8.0\Grados Celsius a Fahrenheit.runtimeconfig.json
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\bin\Debug\net8.0\Grados Celsius a Fahrenheit.dll
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\bin\Debug\net8.0\Grados Celsius a Fahrenheit.pdb
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\Grados Celsius a Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\Grados Celsius a Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\Grados Celsius a Fahrenheit.AssemblyInfo.cs
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\Grados Celsius a Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\Grados Celsius a Fahrenheit.dll
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\refint\Grados Celsius a Fahrenheit.dll
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\Grados Celsius a Fahrenheit.pdb
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\Grados Celsius a Fahrenheit.genruntimeconfig.cache
+C:\Users\alexd\source\repos\Grados Celsius a Fahrenheit\obj\Debug\net8.0\ref\Grados Celsius a Fahrenheit.dll
