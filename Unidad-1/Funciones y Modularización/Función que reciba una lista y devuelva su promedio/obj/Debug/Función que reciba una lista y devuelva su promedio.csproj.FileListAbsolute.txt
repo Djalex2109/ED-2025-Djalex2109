@@ -1,0 +1,10 @@
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\bin\Debug\Función que reciba una lista y devuelva su promedio.exe.config
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\bin\Debug\Función que reciba una lista y devuelva su promedio.exe
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\bin\Debug\Función que reciba una lista y devuelva su promedio.pdb
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\obj\Debug\Función que reciba una lista y devuelva su promedio.csproj.AssemblyReference.cache
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\obj\Debug\Función_que_reciba_una_lista_y_devuelva_su_promedio.Form1.resources
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\obj\Debug\Función_que_reciba_una_lista_y_devuelva_su_promedio.Properties.Resources.resources
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\obj\Debug\Función que reciba una lista y devuelva su promedio.csproj.GenerateResource.cache
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\obj\Debug\Función que reciba una lista y devuelva su promedio.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\obj\Debug\Función que reciba una lista y devuelva su promedio.exe
+C:\Users\alexd\source\repos\Función que reciba una lista y devuelva su promedio\obj\Debug\Función que reciba una lista y devuelva su promedio.pdb
