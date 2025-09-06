@@ -1,0 +1,10 @@
+C:\Users\alexd\source\repos\POO Avanzada forms\bin\Debug\POO Avanzada forms.exe.config
+C:\Users\alexd\source\repos\POO Avanzada forms\bin\Debug\POO Avanzada forms.exe
+C:\Users\alexd\source\repos\POO Avanzada forms\bin\Debug\POO Avanzada forms.pdb
+C:\Users\alexd\source\repos\POO Avanzada forms\obj\Debug\POO Avanzada forms.csproj.AssemblyReference.cache
+C:\Users\alexd\source\repos\POO Avanzada forms\obj\Debug\POO_Avanzada_forms.Form1.resources
+C:\Users\alexd\source\repos\POO Avanzada forms\obj\Debug\POO_Avanzada_forms.Properties.Resources.resources
+C:\Users\alexd\source\repos\POO Avanzada forms\obj\Debug\POO Avanzada forms.csproj.GenerateResource.cache
+C:\Users\alexd\source\repos\POO Avanzada forms\obj\Debug\POO Avanzada forms.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\POO Avanzada forms\obj\Debug\POO Avanzada forms.exe
+C:\Users\alexd\source\repos\POO Avanzada forms\obj\Debug\POO Avanzada forms.pdb
