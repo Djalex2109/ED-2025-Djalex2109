@@ -1,0 +1,14 @@
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\bin\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.exe
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\bin\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.deps.json
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\bin\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.runtimeconfig.json
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\bin\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.dll
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\bin\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.pdb
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.AssemblyInfo.cs
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.dll
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\refint\Ejercicio En Clase 8-sep.2025 Ed.dll
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.pdb
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\Ejercicio En Clase 8-sep.2025 Ed.genruntimeconfig.cache
+C:\Users\alexd\source\repos\Ejercicio En Clase 8-sep.2025 Ed\obj\Debug\net8.0\ref\Ejercicio En Clase 8-sep.2025 Ed.dll
