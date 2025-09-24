@@ -29,3 +29,11 @@ Escenario      Bubble Sort (s)     Merge Sort (s)      Observaciones
 Ordenado       0.02782807          0.00001486         bubble tarda mas que en Merge             
 Inverso        0.07936441          0.00001657         bubble tarda mas que en el odenado                     
 Casi ordenado  0.03715100          0.00002602         bubble mejora pero sigue siendo mas lento que Merge
+
+TABLA EJERCICIO 3
+n    Fibonacci      Recursivo (s)       Iterativo (s)       Diferencia     
+5    5              0.00000400          0.00000299          0.00000101     
+10   55             0.00001538          0.00000183          0.00001355     
+20   6765           0.00187468          0.00000286          0.00187182     
+30   832040         0.18616788          0.00000957          0.18615830     
+35   9227465        1.88125657          0.00000763          1.88124894     
