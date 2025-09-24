@@ -1,6 +1,6 @@
 # Algoritmos Eficientes vs Ineficientes
 
-**Autores:**  
+**En Colaboracion:**  
 - Alexis Dueñez Maldonado - 23100155  
 - Ricardo Rodriguez Hernandez - 23100207  
 
