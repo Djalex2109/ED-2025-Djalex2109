@@ -6,7 +6,8 @@
 ---
 
 **Observaciones finales:**  
-El grafo modela bien las ventajas de un hub (Centro Comercial) y permite analizar vulnerabilidades (por ejemplo, si el Centro Comercial queda inhabilitado, algunas rutas cortas se alargarían significativamente).
+Gracias a estos grafos pudimos analizar mejor la información y entender de manera más clara los datos que obtuvimos. Visualizar todo en forma de gráficas hace que sea más sencillo identificar patrones, diferencias y resultados importantes sin tener que interpretar una gran cantidad de números.
+En general, estos gráficos nos ayudan bastante a comprender y explicar lo que pasa en el problema, ya que muestran de forma directa lo que necesitamos observar y facilitan la toma de decisiones o conclusiones finales sobre el tema que estamos estudiando.
 
 ---
 
