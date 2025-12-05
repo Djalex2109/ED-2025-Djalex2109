@@ -22,3 +22,5 @@
 ### Ciclo existente
 - México → Cancún → Miami → México
 
+- ![Diagrama Sistema de Vuelos](Ejercicio1/Diagrama.png)
+
