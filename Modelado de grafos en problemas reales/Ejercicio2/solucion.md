@@ -1,5 +1,5 @@
 ## Ejercicio 2: Red de Computadoras 
-
+<img width="825" height="602" alt="Image" src="https://github.com/user-attachments/assets/b6edaf30-406b-43ed-a465-d9b510bf70ef" />
 ### Representación
 - Grafo **no dirigido**
 - Representa conexiones físicas
