@@ -24,7 +24,7 @@ El grafo representa las conexiones físicas entre los dispositivos.
 
 ---
 
-## Ejercicio 3: [Título de tu grafo elegido]
+## Ejercicio 3: Rutas de Transporte (Mi trayecto diario)
 En este ejercicio se construye un grafo basado en un ejemplo de la vida real del estudiante.  
 Incluye: descripción, diagrama, análisis de grados, conexidad y ciclos.
 
