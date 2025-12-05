@@ -1,4 +1,5 @@
 - ## Ejercicio 1: Sistema de Vuelos
+- <img width="658" height="402" alt="Image" src="https://github.com/user-attachments/assets/083761ae-87ea-4046-bacb-5ef932b1edb7" />
 - ### Representación
 - Grafo **dirigido** (los vuelos son solo ida)
 - Grafo **ponderado** (hay costos asociados)
@@ -22,5 +23,5 @@
 ### Ciclo existente
 - México → Cancún → Miami → México
 
-<img width="658" height="402" alt="Image" src="https://github.com/user-attachments/assets/083761ae-87ea-4046-bacb-5ef932b1edb7" />
+
 
