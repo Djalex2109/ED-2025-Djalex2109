@@ -27,7 +27,7 @@ Las aristas consideradas (rutas directas):
 ## d) Diagrama del grafo
 
 
-![Diagrama Rutas de Transporte](diagrama.png)
+<img width="700" height="458" alt="Image" src="https://github.com/user-attachments/assets/e6ce025b-3a80-42b9-b19a-774046595acc" />
 
 
 ## e) Análisis: grados, conexidad, ciclos
