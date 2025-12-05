@@ -1,1 +1,1 @@
-Modelado-de-Grafos-en-Problemas-Reales
+Modelado de Grafos en Problemas Reales
